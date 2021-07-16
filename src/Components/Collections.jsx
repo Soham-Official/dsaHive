@@ -7,36 +7,22 @@ const Collections = () => {
   return (
     <div className="collPage">
       <div className="lol">
-      <h1 className="text-center collHead">Collections</h1>
+        <h1 className="text-center collHead">Collections</h1>
       </div>
-      {Collectiondb.map((value, index) => {
-        return (
-          <>
-          <main className="page-content">
-          <Card
-            name={value.name}
-            description={value.description}
-            link={value.link}
-          />
-          <Card
-            name={value.name}
-            description={value.description}
-            link={value.link}
-          />
-          <Card
-            name={value.name}
-            description={value.description}
-            link={value.link}
-          />
-          <Card
-            name={value.name}
-            description={value.description}
-            link={value.link}
-          />
-          </main>
-          </>
-        );
-      })}
+      <main className="page-content">
+        {Collectiondb.map((value, index) => {
+          return (
+            <>
+              <Card
+                key={index}
+                name={value.name}
+                description={value.description}
+                link={value.link}
+              />
+            </>
+          );
+        })}
+      </main>
       <Footer />
     </div>
   );

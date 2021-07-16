@@ -54,6 +54,60 @@ const Sdesheet = [
     topic: "Array",
   },
   {
+    name: "Set Matrix Zeros",
+    link: "https://leetcode.com/problems/set-matrix-zeroes/",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%202/Set%20Matrix%20Zeroes",
+    video:
+      "https://www.youtube.com/watch?v=M65xBewcqcI&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=7",
+    level: "Medium",
+    topic: "Array",
+  },
+  {
+    name: "Pascal Triangle",
+    link: "https://leetcode.com/problems/pascals-triangle/",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%202/Pascal%20Triangle",
+    video:
+      "https://www.youtube.com/watch?v=6FLvhQjZqvM&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=8 ",
+    level: "Easy",
+    topic: "Array",
+  },
+  {
+    name: "Next Permutation",
+    link: "https://leetcode.com/problems/next-permutation/",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%202/Next%20Permutation",
+    video:
+      "https://www.youtube.com/watch?v=LuLCLgMElus&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=9",
+    level: "Medium",
+    topic: "Array",
+  },
+  {
+    name: "Inversion of Array",
+    link: "https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
+    sol: "",
+    video:
+      "https://www.youtube.com/watch?v=kQ1mJlwW-c0&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=10",
+    level: "Medium",
+    topic: "Array",
+  },
+  {
+    name: "Stock Buy and Sell",
+    link: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%202/Stock%20Buy%20and%20Sell",
+    video:
+      "https://www.youtube.com/watch?v=eMSfBgbiEjk&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=11",
+    level: "Easy",
+    topic: "Array",
+  },
+  {
+    name: "Rotate Matrix",
+    link: "https://leetcode.com/problems/rotate-image/",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%202/Rotate%20Matrix",
+    video:
+      "https://www.youtube.com/watch?v=Y72QeX0Efxw&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=12",
+    level: "Medium",
+    topic: "Array",
+  },
+  {
     name: "",
     link: "",
     sol: "",
