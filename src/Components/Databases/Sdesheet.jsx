@@ -108,6 +108,60 @@ const Sdesheet = [
     topic: "Array",
   },
   {
+    name: "Search in a 2D matrix",
+    link: "https://leetcode.com/problems/search-a-2d-matrix/",
+    sol: "",
+    video:
+      "https://www.youtube.com/watch?v=ZYpYur0znng&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=14",
+    level: "Medium",
+    topic: "Array",
+  },
+  {
+    name: "Pow(X,n)",
+    link: "https://leetcode.com/problems/powx-n/",
+    sol: "",
+    video:
+      "https://www.youtube.com/watch?v=l0YC3876qxg&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=15",
+    level: "Medium",
+    topic: "Math",
+  },
+  {
+    name: "Majority Element (>N/2 times)",
+    link: "https://leetcode.com/problems/majority-element/",
+    sol: "",
+    video:
+      "https://www.youtube.com/watch?v=AoX3BPWNnoE&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=16",
+    level: "Easy",
+    topic: "Array",
+  },
+  {
+    name: "Majority Element (>N/3 times)",
+    link: "https://leetcode.com/problems/majority-element-ii/",
+    sol: "",
+    video:
+      "https://www.youtube.com/watch?v=yDbkQd9t2ig&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=17",
+    level: "Medium",
+    topic: "Array",
+  },
+  {
+    name: "Grid Unique Paths",
+    link: "https://leetcode.com/problems/unique-paths/",
+    sol: "",
+    video:
+      "https://www.youtube.com/watch?v=t_f0nwwdg5o&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=18",
+    level: "Medium",
+    topic: "Array",
+  },
+  {
+    name: "Reverse Pairs (Leetcode)",
+    link: "https://leetcode.com/problems/reverse-pairs/",
+    sol: "",
+    video:
+      "https://www.youtube.com/watch?v=S6rsAlj_iB4&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=19",
+    level: "Hard",
+    topic: "Array",
+  },
+  {
     name: "",
     link: "",
     sol: "",
