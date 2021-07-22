@@ -2,7 +2,7 @@
   "name": "frontend",
   "homepage": "https://Soham-official.github.io/dsaHive/",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@material-ui/core": "^4.12.2",
     "@testing-library/jest-dom": "^5.14.1",
