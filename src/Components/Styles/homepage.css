@@ -41,17 +41,17 @@ body {
 }
 @media only screen and (max-width: 450px) {
   .button {
-    font-size: 3.2vw;  
+    font-size: 3.2vw;
   }
 }
 
 @media only screen and (max-width: 1024px) {
   .button {
-    font-size: 3.2vw;  
+    font-size: 3.2vw;
   }
 }
 
-span {
+.spanbtn {
   display: table-cell;
   vertical-align: middle;
   background-color: #0bb3b3;
@@ -107,8 +107,7 @@ span {
   }
 }
 
-
-@media only screen and (max-width: 1024px){
+@media only screen and (max-width: 1024px) {
   .message-box {
     top: 50%;
     left: 50%;

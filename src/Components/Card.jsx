@@ -16,11 +16,11 @@ const Card = (props) => {
               to={`questions/${props.link}`}
               onClick={(event) => event.preventDefault()}
             >
-              <span>Coming Soon!</span>
+              <span className="spanbtn">Coming Soon!</span>
             </Link>
           ) : (
             <Link className="button" to={`questions/${props.link}`}>
-              <span>Lets Start!</span>
+              <span className="spanbtn">Lets Start!</span>
             </Link>
           )}
         </div>
