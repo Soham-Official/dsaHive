@@ -218,7 +218,7 @@ const Sdesheet = [
   {
     name: "Reverse a LinkedList",
     link: "https://leetcode.com/problems/reverse-linked-list/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%205/Reverse%20Linked%20List",
     video:
       "https://www.youtube.com/watch?v=iRtLEoL-r-g&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=27",
     level: "Easy",
@@ -227,7 +227,7 @@ const Sdesheet = [
   {
     name: "Find middle of LinkedList",
     link: "https://leetcode.com/problems/middle-of-the-linked-list/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%205/Middle%20of%20the%20Linked%20List",
     video:
       "https://www.youtube.com/watch?v=sGdwSH8RK-o&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=28",
     level: "Easy",
@@ -236,7 +236,7 @@ const Sdesheet = [
   {
     name: "Merge two sorted Linked List",
     link: "https://leetcode.com/problems/merge-two-sorted-lists/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%205/Merge%20Two%20Sorted%20Lists",
     video:
       "https://www.youtube.com/watch?v=Xb4slcp1U38&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=29",
     level: "Medium",
@@ -245,7 +245,7 @@ const Sdesheet = [
   {
     name: "Remove N-th node from back",
     link: "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%205/Remove%20Nth%20Node%20From%20End%20of%20List",
     video:
       "https://www.youtube.com/watch?v=Lhu3MsXZy-Q&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=30",
     level: "Medium",
@@ -254,7 +254,7 @@ const Sdesheet = [
   {
     name: "Delete a given Node(0(1) solution) ",
     link: "https://leetcode.com/problems/delete-node-in-a-linked-list/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%205/Delete%20Node%20in%20a%20Linked%20List",
     video:
       "https://www.youtube.com/watch?v=icnp4FJdZ_c&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=31",
     level: "Easy",
@@ -263,7 +263,7 @@ const Sdesheet = [
   {
     name: "Add two numbers as LinkedList",
     link: "https://leetcode.com/problems/add-two-numbers/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%205/Add%20Two%20Numbers",
     video:
       "https://www.youtube.com/watch?v=LBVsXSMOIk4&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=32",
     level: "Medium",
@@ -272,7 +272,7 @@ const Sdesheet = [
   {
     name: "Find intersection point LinkedList",
     link: "https://leetcode.com/problems/intersection-of-two-linked-lists/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%206/Intersection%20of%20Two%20Linked%20Lists",
     video:
       "https://www.youtube.com/watch?v=u4FWXfgS8jw&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=33",
     level: "Easy",
@@ -281,7 +281,7 @@ const Sdesheet = [
   {
     name: "Detect a cycle in Linked List",
     link: "https://leetcode.com/problems/linked-list-cycle/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%206/Linked%20List%20Cycle",
     video:
       "https://www.youtube.com/watch?v=354J83hX7RI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=34",
     level: "Easy",
@@ -290,7 +290,7 @@ const Sdesheet = [
   {
     name: "Reverse a LinkedList in groups.",
     link: "https://leetcode.com/problems/reverse-nodes-in-k-group/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%206/Reverse%20Nodes%20in%20k-Group",
     video:
       "https://www.youtube.com/watch?v=Of0HPkk3JgI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=34",
     level: "Hard",
@@ -299,7 +299,7 @@ const Sdesheet = [
   {
     name: "Check if a LinkedList is palindrome.",
     link: "https://leetcode.com/problems/palindrome-linked-list/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%206/Palindrome%20Linked%20List",
     video:
       "https://www.youtube.com/watch?v=-DtNInqFUXs&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=36",
     level: "Easy",
@@ -308,7 +308,7 @@ const Sdesheet = [
   {
     name: "Starting point of the Loop of LinkedList.",
     link: "https://leetcode.com/problems/linked-list-cycle-ii/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%206/Linked%20List%20Cycle%20II",
     video:
       "https://www.youtube.com/watch?v=QfbOhn0WZ88&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=37",
     level: "Medium",
@@ -317,7 +317,7 @@ const Sdesheet = [
   {
     name: "Flattening of a LinkedList",
     link: "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%206/Flattening%20a%20Linked%20List",
     video:
       "https://www.youtube.com/watch?v=ysytSSXpAI0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=38",
     level: "Medium",
@@ -326,7 +326,7 @@ const Sdesheet = [
   {
     name: "Rotate a LinkedList",
     link: "https://leetcode.com/problems/rotate-list/description/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%207/Rotate%20List",
     video:
       "https://www.youtube.com/watch?v=9VPm6nEbVPA&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=39",
     level: "Medium",
@@ -335,7 +335,7 @@ const Sdesheet = [
   {
     name: "Clone a Linked List ",
     link: "https://leetcode.com/problems/copy-list-with-random-pointer/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%207/Copy%20List%20with%20Random%20Pointer",
     video:
       "https://www.youtube.com/watch?v=VNf6VynfpdM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=40",
     level: "Medium",
@@ -344,7 +344,7 @@ const Sdesheet = [
   {
     name: "3 sum",
     link: "https://leetcode.com/problems/3sum/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%207/3Sum",
     video:
       "https://www.youtube.com/watch?v=onLoX6Nhvmg&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=41",
     level: "Medium",
@@ -353,7 +353,7 @@ const Sdesheet = [
   {
     name: "Trapping rainwater",
     link: "https://leetcode.com/problems/trapping-rain-water/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%207/Trapping%20Rain%20Water",
     video:
       "https://www.youtube.com/watch?v=m18Hntz4go8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=42",
     level: "Hard",
@@ -362,7 +362,7 @@ const Sdesheet = [
   {
     name: "Remove Duplicate from Sorted array",
     link: "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%207/Remove%20Duplicates%20from%20Sorted%20Array",
     video:
       "https://www.youtube.com/watch?v=Fm_p9lJ4Z_8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=43",
     level: "Easy",
@@ -371,19 +371,19 @@ const Sdesheet = [
   {
     name: "Max consecutive ones.",
     link: "https://leetcode.com/problems/max-consecutive-ones/",
-    sol: "",
+    sol: "https://github.com/Soham-Official/sdeSheet/blob/main/Day%207/Max%20Consecutive%20Ones",
     video:
       "https://www.youtube.com/watch?v=Mo33MjjMlyA&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=44",
     level: "Easy",
     topic: "Array",
   },
-  {
-    name: "",
-    link: "",
-    sol: "",
-    video: "",
-    level: "",
-    topic: "",
-  },
+  // {
+  //   name: "",
+  //   link: "",
+  //   sol: "",
+  //   video: "",
+  //   level: "",
+  //   topic: "",
+  // },
 ];
 export default Sdesheet;
