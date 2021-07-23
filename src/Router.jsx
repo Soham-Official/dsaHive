@@ -6,7 +6,7 @@ import Questions from "./Components/Questions";
 const Router = () => {
   return (
     <>
-      <BrowserRouter basename="/dsahive">
+      <BrowserRouter>
         <Switch>
           <Route exact path="/" component={Home} />
           <Route exact path="/collections" component={Collections} />

@@ -8,27 +8,27 @@ const Collectiondb = [
   {
     name: "Coming Soon",
     link: "nil",
-    description: "Coming Soon.",
+    description: "Coming Soon.......",
   },
   {
     name: "Coming Soon",
     link: "nil",
-    description: "Coming Soon.",
+    description: "Coming Soon.......",
   },
   {
     name: "Coming Soon",
     link: "nil",
-    description: "Coming Soon.",
+    description: "Coming Soon.......",
   },
   {
     name: "Coming Soon",
     link: "nil",
-    description: "Coming Soon.",
+    description: "Coming Soon.......",
   },
   {
     name: "Coming Soon",
     link: "nil",
-    description: "Coming Soon.",
+    description: "Coming Soon.......",
   },
 ];
 export default Collectiondb;

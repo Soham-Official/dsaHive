@@ -109,6 +109,8 @@ const Questions = ({ match }) => {
                   />
                 </>
               );
+            ans.push(<div style={{ height: "15vh" }}></div>);
+
             return ans;
           })()
         : ""}
