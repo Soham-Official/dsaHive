@@ -6,9 +6,9 @@ const Collectiondb = [
       "Collection of curated dsa problems to get placement ready for product base companies.",
   },
   {
-    name: "Coming Soon",
-    link: "nil",
-    description: "Coming Soon.......",
+    name: "Fork-Python",
+    link: "fork python",
+    description: "Learning python from scratch,a course by Geeks For Geeks.",
   },
   {
     name: "Coming Soon",

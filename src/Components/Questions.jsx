@@ -5,6 +5,7 @@ import QuestionTemplate from "./QuestionTemplate";
 import "./Styles/questions.css";
 import { withStyles } from "@material-ui/core/styles";
 import Slider from "@material-ui/core/Slider";
+import Forkpython from "./Databases/Forkpython";
 const Questions = ({ match }) => {
   let x = match.params.sheetname;
   const [data, setData] = useState([]);
@@ -12,6 +13,7 @@ const Questions = ({ match }) => {
   const [startday, setStartday] = useState(0);
   useEffect(() => {
     if (x === "Sde sheet") setData(Sdesheet);
+    if (x === "fork python") setData(Forkpython);
   }, [x]);
   const PrettoSlider = withStyles({
     thumb: {

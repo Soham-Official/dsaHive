@@ -38,6 +38,11 @@ body {
   text-decoration: none;
   color: #fff;
   font-weight: bold;
+  /* width: 50rem; */
+  padding: 16px;
+}
+.button1 {
+  text-decoration: none;
 }
 @media only screen and (max-width: 450px) {
   .button {

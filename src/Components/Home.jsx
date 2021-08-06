@@ -25,7 +25,10 @@ const Home = () => {
                 Collection of Solutions of Famous DSA Question Sheets
               </p>
               <Link to="/collections" className="button">
-                <span className="spanbtn">Lets Start!</span>
+                <span className="spanbtn">Collections</span>
+              </Link>
+              <Link to="/collections" className="button">
+                <span className="spanbtn">Explore All</span>
               </Link>
             </div>
           </div>
