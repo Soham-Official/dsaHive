@@ -11,14 +11,14 @@ const Collectiondb = [
     description: "Learning python from scratch,a course by Geeks For Geeks.",
   },
   {
-    name: "Coming Soon",
-    link: "nil",
-    description: "Coming Soon.......",
+    name: "Fork CPP",
+    link: "fork cpp",
+    description: "Learning cpp from scratch,a course by Geeks For Geeks.",
   },
   {
-    name: "Coming Soon",
-    link: "nil",
-    description: "Coming Soon.......",
+    name: "Fork Java",
+    link: "fork java",
+    description: "Learning java from scratch,a course by Geeks For Geeks.",
   },
   {
     name: "Coming Soon",

@@ -6,6 +6,8 @@ import "./Styles/questions.css";
 import { withStyles } from "@material-ui/core/styles";
 import Slider from "@material-ui/core/Slider";
 import Forkpython from "./Databases/Forkpython";
+import Forkcpp from "./Databases/Forkcpp";
+import Forkjava from "./Databases/Forkjava";
 const Questions = ({ match }) => {
   let x = match.params.sheetname;
   const [data, setData] = useState([]);
@@ -14,6 +16,8 @@ const Questions = ({ match }) => {
   useEffect(() => {
     if (x === "Sde sheet") setData(Sdesheet);
     if (x === "fork python") setData(Forkpython);
+    if (x === "fork cpp") setData(Forkcpp);
+    if (x === "fork java") setData(Forkjava);
   }, [x]);
   const PrettoSlider = withStyles({
     thumb: {
